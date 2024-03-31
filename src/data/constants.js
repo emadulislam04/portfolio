@@ -236,7 +236,7 @@ export const projects = [
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
     image:
-      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view",
+      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
     tags: [
       "Chat GPT",
       "React Js",
@@ -244,6 +244,74 @@ export const projects = [
       "Vite",
     ],
     category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 8,
+    title: "MCQBEE",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    image:
+      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
+    tags: [
+      "Chat GPT",
+      "React Js",
+      "Node Js",
+      "Vite",
+    ],
+    category: "web app",
+    webapp: "https://dev-mcqbee.pantheonsite.io/",
+  },
+  {
+    id: 7,
+    title: "Healthy Bookish",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    image:
+      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
+    tags: [
+      "Wordpress",
+      "Elementor",
+      "Vite",
+    ],
+    category: "wordpress",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 6,
+    title: "Healthy",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    image:
+      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
+    tags: [
+      "Wordpress",
+      "Elementor",
+      "Vite",
+    ],
+    category: "wordpress",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 7,
+    title: "Healthy Bookish",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    image:
+      "https://imgur.com/EZ4hdgT",
+    tags: [
+      "Wordpress",
+      "Elementor",
+      "Vite",
+    ],
+    category: "wordpress",
     github: "https://github.com/rishavchanda/Trackify",
     webapp: "https://trackify.duckdns.org",
   },
