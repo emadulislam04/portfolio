@@ -13,7 +13,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/emadulislam04/",
   twitter: "",
   insta: "https://www.instagram.com/emadulislam_",
-  facebook: "https://www.facebook.com/emadulislam2004",
+  facebook: "https://www.facebook.com/emadulislam2004 ",
 };
 
 export const skills = [
