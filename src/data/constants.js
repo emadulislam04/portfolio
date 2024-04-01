@@ -10,7 +10,7 @@ export const Bio = {
   github: "https://github.com/emadulislam04",
   resume:
     "",
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/emadulislam04/",
   twitter: "",
   insta: "https://www.instagram.com/emadulislam_",
   facebook: "https://www.facebook.com/emadulislam2004",
@@ -232,11 +232,11 @@ export const projects = [
   {
     id: 9,
     title: "Chain AI",
-    date: "Jun 2023 - Jul 2023",
+    date: "Sept 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Chain is an app where people can usually chat with bot to figure out things andd generate images by comand on input field. This app is developed with open ai's api and coded with React Js & Node Js.This server takes few times to start and then start generating images and communicating with you.",
     image:
-      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
+      "https://i.imgur.com/H82yqNS.jpg",
     tags: [
       "Chat GPT",
       "React Js",
@@ -244,83 +244,94 @@ export const projects = [
       "Vite",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    webapp: "https://chainai.netlify.app/",
   },
   {
     id: 8,
     title: "MCQBEE",
-    date: "Jun 2023 - Jul 2023",
+    date: "Jun 2022",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "MCQBEE is an app for intermediate student in Bangladesh to take a quiz over thier academic topic to justify thier progress.Almost 4000+ question on various topic was added there and over 2300 student used the application. Few quiz competition also arranged by MCQBEE. But suddenly it stopped for few issues.",
     image:
-      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
+      "https://i.imgur.com/EZ4hdgT.jpg",
     tags: [
-      "Chat GPT",
-      "React Js",
-      "Node Js",
-      "Vite",
+      "WORDPRESS",
+      "ELEMENTOR",
+      "TEAM MANAGEMENT",
+      "STUDENT SUPPORT",
+      "UPGRADIUNG FEATURES AND EXPERIENCE",
     ],
     category: "web app",
-    webapp: "https://dev-mcqbee.pantheonsite.io/",
+    webapp: "https://i.imgur.com/EZ4hdgT.jpg",
   },
   {
     id: 7,
     title: "Healthy Bookish",
-    date: "Jun 2023 - Jul 2023",
+    date: "Jun 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Healthy bookis is a blogging website for book review in various categories.There reviewed lots book with healthy knowledge and suggested many interesting book. It was a great experience to work with author of Healthy Bookish.",
     image:
-      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
+      "https://i.imgur.com/6U68L2j.png",
     tags: [
       "Wordpress",
       "Elementor",
-      "Vite",
+      "Blogging",
     ],
     category: "wordpress",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "",
+    webapp: "https://healthybookish.com/",
   },
   {
     id: 6,
     title: "Healthy",
-    date: "Jun 2023 - Jul 2023",
+    date: "2022",
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
     image:
-      "https://drive.google.com/file/d/178gMgCKTmWLWByP12PLkagDHGwJvD61o/view?usp=sharing",
+      "https://i.imgur.com/Rrm4fBo.jpg",
     tags: [
       "Wordpress",
       "Elementor",
-      "Vite",
+      "",
     ],
     category: "wordpress",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: " ",
+    webapp: "https://dev-healthy2021.pantheonsite.io/",
   },
   {
-    id: 7,
-    title: "Healthy Bookish",
-    date: "Jun 2023 - Jul 2023",
+    id: 6,
+    title: "Mobile App",
+    date: "2021",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Healthy is a blogging site for restuarent recipe which is developed by wordpress and elementor.",
     image:
-      "https://imgur.com/EZ4hdgT",
+      "https://i.imgur.com/E3FN7br.jpg",
     tags: [
       "Wordpress",
       "Elementor",
-      "Vite",
+      "",
     ],
     category: "wordpress",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "",
+    webapp: "https://dev-mobile-app2004.pantheonsite.io/",
+  },
+  {
+    id: 6,
+    title: "Teso Design",
+    date: "2021",
+    description:
+      "Teso design is a multi-vendor ecommerce website where people can buy productn and also sell thier product by creating vendor. This app is created with woocommerce and vendor plugin. Also used ecommerce related plugin to upgrade feature.",
+    image:
+      "https://i.imgur.com/bQXgdeF.jpg",
+    tags: [
+      "Wordpress",
+      "Woocommerce",
+      "Vendor",
+      "Ecommerce",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://dev-teso-design.pantheonsite.io/",
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
