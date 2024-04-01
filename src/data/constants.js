@@ -212,7 +212,7 @@ export const education = [
     id: 2,
     img: "https://www.dhkgovmalia.edu.bd/upload/Alia%20Madrasah%20Logo.jpg",
     school: "Govt. Madrasah-e-Alia, Dhaka",
-    // grade: "5.00 GPA",
+    // grade: "5.00 GPA ",
     date: "2023-22024 session",
     desc: "I am curenntly pursuing a Bachelor's degree in general education at Govt. Madrasah-e-Alia, Dhaka. The session is not started yet as Just finished the admission.",
   },
