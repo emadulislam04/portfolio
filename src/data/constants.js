@@ -206,7 +206,6 @@ export const education = [
     date: "Oct 2021 - Sep 2025",
     grade: "5.00 GPA",
     desc: "It was a institution for my higher secondary education in 2022-2023. In those year I worked on our ENglish language club and arrange few seminars and workshop to overcome student's weakness at english throughout the campus.Also from there I got GPA 5.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 2,
@@ -286,7 +285,7 @@ export const projects = [
     title: "Healthy",
     date: "2022",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    "Healthy is a blogging site for restuarent recipe which is developed by wordpress and elementor.",
     image:
       "https://i.imgur.com/Rrm4fBo.jpg",
     tags: [
@@ -302,8 +301,8 @@ export const projects = [
     id: 6,
     title: "Mobile App",
     date: "2021",
-    description:
-      "Healthy is a blogging site for restuarent recipe which is developed by wordpress and elementor.",
+    description:"",
+      
     image:
       "https://i.imgur.com/E3FN7br.jpg",
     tags: [
