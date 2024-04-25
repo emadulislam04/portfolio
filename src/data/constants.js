@@ -8,8 +8,7 @@ export const Bio = {
   description:
     "For three years, I've passionately delved into programming, gathering rich experience across numerous projects, predominantly in frontend development. From crafting sleek interfaces to dabbling in backend intricacies, I thrive on versatility. Each line of code fuels my pursuit of innovation and excellence in this ever-evolving domain.",
   github: "https://github.com/emadulislam04",
-  resume:
-    "",
+  resume:"https://drive.google.com/file/d/1D6ooj1pLssLCZL1YJ5SUkkPV2LgrTsRT/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/emadulislam04/",
   twitter: "",
   insta: "https://www.instagram.com/emadulislam_",
@@ -99,19 +98,9 @@ export const skills = [
     title: "Others",
     skills: [
       {
-        name: "Git",
-        image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
-      },
-      {
         name: "GitHub",
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-      },
-      {
-        name: "Docker",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
       },
       {
         name: "Netlify",
@@ -127,16 +116,6 @@ export const skills = [
         name: "Postman",
         image:
           "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
-      },
-      {
-        name: "Adobe XD",
-        image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-      },
-      {
-        name: "Figma",
-        image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
       },
     ],
   },
@@ -160,7 +139,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://dev-mcqbee.pantheonsite.io/wp-content/uploads/2022/06/cropped-cropped-20220619_102131-removebg-preview-1.png",
+    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/311141479_138546652254236_8424160108781734975_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGmmjFmZ40n8h6o-D0jQDQu5vqf5SMWn3vm-p_lIxafe-WDfHwwiMnvPG8VdGLD_AtgO9FqJFoFWpGMtxa_l-8c&_nc_ohc=Elim5vqt27AAb4DW3wD&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBNZ1xAsCkYVWDMQqZRFcEtof9-ZTVAxE7hYF2buysaQw&oe=66272B9F",
     role: "Founder & CEO",
     company: "MCQBEE",
     date: "June 2022 - December 2022",
@@ -174,8 +153,22 @@ export const experiences = [
     
   },
   {
+    id: 3,
+    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/286798780_107165162025480_8242872206033439795_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHREEbRLLlqQuLmJfOMs_tYyYGOrNltPXzJgY6s2W09fK07py1jxgnOecE_ii2C3MrJNKYvXKnjehMREcBXiywl&_nc_ohc=cXiKBuSfIDYAb4ehqfQ&_nc_ht=scontent.fdac138-1.fna&oh=00_AfAcb4xmkGawNe642x5QqYQLvJCmjpNoYfQloKZXew7uCw&oe=66275576",
+    role: "Social media & event manager",
+    company: " Darunnat English Language Club",
+    date: "Jun,2022 - Sept,2022",
+    desc: "Social media content and graphics for every workshop and event was handled by me. Besides, I worked with club memeber organizing around 5 workshops and 2 events.However, I mostly worked on managing social media of the club.",
+    skills: [
+      "Teamwork",
+      "Event organizing",
+      "Social media manage",
+    ],
+    
+  },
+  {
     id: 2,
-    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/377692609_701372915362564_3748905944608636766_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEdhlzrGV54kq7AN6RN8_ljeC6HH5Ss9Ut4LocflKz1S1WO29QLYSGkj8upu2khd29BU0qD7BogeJrls-G8f5NX&_nc_ohc=ruadoAb_Mi0AX_3tVvb&_nc_ht=scontent.fdac138-1.fna&oh=00_AfDLnTDFoNOvxD9Cdu64uM7lerZlmdn_Cs7FWq0eFYYflQ&oe=660F009A",
+    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/377692609_701372915362564_3748905944608636766_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEdhlzrGV54kq7AN6RN8_ljeC6HH5Ss9Ut4LocflKz1S1WO29QLYSGkj8upu2khd29BU0qD7BogeJrls-G8f5NX&_nc_ohc=p12N1MRf5f4Ab6GJ9II&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBE75Qui4rbrmTYiq5zOu2AOpxitoyNsUKPCr5VC6jpzg&oe=66272C1A",
     role: "Front-end developer",
     company: "SMO",
     date: "Aug 2023 - Mar 2024",
@@ -201,9 +194,9 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/212100876_113628397658647_6864197639317113584_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF10N11vZuC8GDnIJ9Ptdjgk6YpAyjqA_eTpikDKOoD9-PeUAcolppP7wgU9_Y-CliDXTH8CNHSvP-w3hb96HfK&_nc_ohc=eAnd3ZOBb8QAX_DPNyx&_nc_ht=scontent.fdac138-1.fna&oh=00_AfDwl6JC6kE3G8k4TbgHCZe9U3jjmGeJRPIflYrwzu3yHA&oe=660F37FD",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A7a_YypEpW3uTlnXxxwGi_rovFq6Bs4v8Vds8QjAqQ&s",
     school: "Darunnazat siddkia kamil madrasha, Dhaka",
-    date: "Oct 2021 - Sep 2025",
+    date: "Feb 2022 - Oct 2023",
     grade: "5.00 GPA",
     desc: "It was a institution for my higher secondary education in 2022-2023. In those year I worked on our ENglish language club and arrange few seminars and workshop to overcome student's weakness at english throughout the campus.Also from there I got GPA 5.",
   },
@@ -281,6 +274,42 @@ export const projects = [
     webapp: "https://healthybookish.com/",
   },
   {
+    id: 20,
+    title: "Nexinius",
+    date: "2024",
+    description:
+      "Nexinius is a solo digital agency run by me. The agency just initialized it's journey and done quite few job and earned thier trust.",
+    image:
+      "https://i.imgur.com/GBt74MT.jpg",
+    tags: [
+      "ReactJs",
+      "Vite",
+      "Netlify",
+      "React-Bottstrap",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://nexinius.netlify.app/",
+  },
+  {
+    id: 30,
+    title: "Kasem Insight Academy",
+    date: "2024",
+    description:
+      "It is a simple landing page for kasem insight academy. There are added few of thier information and course overview with review .Nexinius is the contractor of the website",
+    image:
+      "https://i.imgur.com/7bXEtMD.jpg",
+    tags: [
+      "ReactJs",
+      "Vite",
+      "Netlify",
+      "React-Bottstrap",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://kaseminsightacademy.netlify.app/",
+  },
+  {
     id: 6,
     title: "Healthy",
     date: "2022",
@@ -332,5 +361,90 @@ export const projects = [
     github: "",
     webapp: "https://dev-teso-design.pantheonsite.io/",
   },
+  {
+    id: 5,
+    title: "ADA Compliance",
+    date: "2021",
+    description:
+      "",
+    image:
+      "https://i.imgur.com/A6Vx2bJ.jpg",
+    tags: [
+      "Wordpress",
+      "Elementor",
+    ],
+    category: "wordpress",
+    github: "",
+    webapp: "https://dev-adacompliance.pantheonsite.io/home/",
+  },
+  {
+    id: 4,
+    title: "Mark - E-learning",
+    date: "2021",
+    description:
+      "",
+    image:
+      "https://i.imgur.com/pj7k9QB.jpg",
+    tags: [
+      "Wordpress",
+      "Elearning",
+      "Leanpress",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://dev-programming2004.pantheonsite.io/",
+  },
+  {
+    id: 3,
+    title: "EDUMA - E-learning",
+    date: "2021",
+    description:
+      "",
+    image:
+      "https://i.imgur.com/mT9KI7b.jpg",
+    tags: [
+      "Wordpress",
+      "Woocommerce",
+      "Ecommerce",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://dev-education2004.pantheonsite.io/",
+  },
+  {
+    id: 2,
+    title: "Relalube",
+    date: "2021",
+    description:
+      "",
+    image:
+      "https://i.imgur.com/Nr84A4z.jpg",
+    tags: [
+      "Wordpress",
+      "Woocommerce",
+      "Ecommerce",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://dev-relalube2004.pantheonsite.io/",
+  },
+  {
+    id: 2,
+    title: "Study",
+    date: "2021",
+    description:
+      "It is a simple landing page of a edtech company.The wesite designedd by wordpress and LMS system.",
+    image:
+      "https://i.imgur.com/xhUAJYx.jpg",
+    tags: [
+      "Wordpress",
+      "LMS",
+      "Elementor",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://dev-study2004.pantheonsite.io/",
+  },
+
 ];
 

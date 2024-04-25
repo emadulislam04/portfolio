@@ -36,13 +36,16 @@ function App() {
         <Navbar />
         <Body>
           <HeroSection />
+
           <Wrapper>
             <Skills />
             <Experience />
           </Wrapper>
-          <Projects openModal={openModal} setOpenModal={setOpenModal} />
+          <Education />
+
           <Wrapper>
-            <Education />
+            <Projects openModal={openModal} setOpenModal={setOpenModal} />
+
             <Contact />
           </Wrapper>
           <Footer />
