@@ -119,6 +119,31 @@ export const skills = [
       },
     ],
   },
+  {
+    title: "Others",
+    skills: [
+      {
+        name: "GitHub",
+        image:
+          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      },
+      {
+        name: "Netlify",
+        image:
+          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+      },
+      {
+        name: "VS Code",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+      },
+      {
+        name: "Postman",
+        image:
+          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+      },
+    ],
+  },
 ];
 
 export const experiences = [
@@ -139,7 +164,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/311141479_138546652254236_8424160108781734975_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGmmjFmZ40n8h6o-D0jQDQu5vqf5SMWn3vm-p_lIxafe-WDfHwwiMnvPG8VdGLD_AtgO9FqJFoFWpGMtxa_l-8c&_nc_ohc=Elim5vqt27AAb4DW3wD&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBNZ1xAsCkYVWDMQqZRFcEtof9-ZTVAxE7hYF2buysaQw&oe=66272B9F",
+    img: "https://i.imgur.com/hZDC1DH.jpg",
     role: "Founder & CEO",
     company: "MCQBEE",
     date: "June 2022 - December 2022",
@@ -154,7 +179,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/286798780_107165162025480_8242872206033439795_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHREEbRLLlqQuLmJfOMs_tYyYGOrNltPXzJgY6s2W09fK07py1jxgnOecE_ii2C3MrJNKYvXKnjehMREcBXiywl&_nc_ohc=cXiKBuSfIDYAb4ehqfQ&_nc_ht=scontent.fdac138-1.fna&oh=00_AfAcb4xmkGawNe642x5QqYQLvJCmjpNoYfQloKZXew7uCw&oe=66275576",
+    img: "https://i.imgur.com/mfykfXx.jpg",
     role: "Social media & event manager",
     company: " Darunnat English Language Club",
     date: "Jun,2022 - Sept,2022",
@@ -168,7 +193,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/377692609_701372915362564_3748905944608636766_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEdhlzrGV54kq7AN6RN8_ljeC6HH5Ss9Ut4LocflKz1S1WO29QLYSGkj8upu2khd29BU0qD7BogeJrls-G8f5NX&_nc_ohc=p12N1MRf5f4Ab6GJ9II&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBE75Qui4rbrmTYiq5zOu2AOpxitoyNsUKPCr5VC6jpzg&oe=66272C1A",
+    img: "https://i.imgur.com/oBadh1A.jpg",
     role: "Front-end developer",
     company: "SMO",
     date: "Aug 2023 - Mar 2024",
@@ -177,6 +202,34 @@ export const experiences = [
       "React Js",
       "Github",
       "Material UI",
+    ],
+    
+  },
+  {
+    id: 2,
+    img: "https://i.imgur.com/UkcomUz.jpg",
+    role: "Web Application Developer",
+    company: "Dhaka University English Language Club",
+    date: "May 2024- Present",
+    desc: "Developing and managing the application of the website",
+    skills: [
+      "React Js",
+      "Github",
+      "Vite",
+    ],
+    
+  },
+  {
+    id: 9,
+    img: "https://i.imgur.com/azuyS1k.jpg",
+    role: "Executive",
+    company: "The real life coach",
+    date: "June 2024- Present",
+    desc: "Managing social meida , Creating shorts video and observing website activites",
+    skills: [
+      "Wordpress",
+      "Social media management",
+      "shorts making",
     ],
     
   },
@@ -212,10 +265,10 @@ export const education = [
     id: 3,
     img: "https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg",
     school: "Univarsity of Dhaka",
-    // grade: "5.00 GPA",
+    grade: "",
     date: "2023-2024 session",
-    desc: "I just qualified with a good position to admit at Dhaka univarsity from humanities in 23-24 session. Subject is not provided yet. I'm eagarly waiting for this and can't wait to start my campus life there along with Govt. Madrasah-e-Alia.",
-    degree: "Subject not listed",
+    desc: "The university authority just distributed subjecct but not yet started class.",
+    degree: "Department of Arabic",
   },
 
 ];
@@ -290,24 +343,6 @@ export const projects = [
     category: "web app",
     github: "",
     webapp: "https://nexinius.netlify.app/",
-  },
-  {
-    id: 30,
-    title: "Kasem Insight Academy",
-    date: "2024",
-    description:
-      "It is a simple landing page for kasem insight academy. There are added few of thier information and course overview with review .Nexinius is the contractor of the website",
-    image:
-      "https://i.imgur.com/7bXEtMD.jpg",
-    tags: [
-      "ReactJs",
-      "Vite",
-      "Netlify",
-      "React-Bottstrap",
-    ],
-    category: "web app",
-    github: "",
-    webapp: "https://kaseminsightacademy.netlify.app/",
   },
   {
     id: 6,

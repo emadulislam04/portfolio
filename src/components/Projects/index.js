@@ -38,6 +38,12 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="website" onClick={() => setToggle('website')}>Website</ToggleButton>
           }
+          <Divider />
+          {toggle === 'Graphics' ?
+            <ToggleButton active value="Graphics" onClick={() => setToggle('Graphics')}>Graphics</ToggleButton>
+            :
+            <ToggleButton value="Graphics" onClick={() => setToggle('Graphics')}>Graphics</ToggleButton>
+          }
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
