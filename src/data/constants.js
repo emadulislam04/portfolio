@@ -233,6 +233,20 @@ export const experiences = [
     ],
     
   },
+  {
+    id: 9,
+    img: "https://i.imgur.com/TvqOVUk.jpg",
+    role: "Websdite manager",
+    company: "LT consultant",
+    date: "July 2024- Present",
+    desc: "Developing & managing website activites",
+    skills: [
+      "Wordpress",
+      "Woocommerce",
+      "Elementor",
+    ],
+    
+  },
 ];
 
 export const education = [
